@@ -1,7 +1,7 @@
 /**************************************************************
-* Class::  CSC-415-02 Spring 2024
+* Class::  CSC-415-02 Spring 2025
 * Name:: Samuel Dolan, Miguel Abalos, Ting Feng
-* Student IDs:: 923626272, 
+* Student IDs:: 923626272, 916939522
 * GitHub-Name:: Geist-Spieler
 * Group-Name:: Breakfast Club
 * Project:: Basic File System

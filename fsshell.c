@@ -1,9 +1,9 @@
 /**************************************************************
-* Class::  CSC-415-0# Spring 2024
-* Name::
-* Student IDs::
-* GitHub-Name::
-* Group-Name::
+* Class::  CSC-415-02 Spring 2024
+* Name:: Samuel Dolan, Miguel Abalos, Ting Feng
+* Student IDs:: 923626272, 
+* GitHub-Name:: migwelabalos
+* Group-Name:: Breakfast Club
 * Project:: Basic File System
 *
 * File:: fsShell.c
